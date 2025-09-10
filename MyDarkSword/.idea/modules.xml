@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyDarkSword.iml" filepath="$PROJECT_DIR$/MyDarkSword.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fightingGames/fightingGames.iml" filepath="$PROJECT_DIR$/fightingGames/fightingGames.iml" />
-    </modules>
-  </component>
-</project>
